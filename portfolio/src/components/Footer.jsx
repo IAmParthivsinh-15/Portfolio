@@ -102,9 +102,7 @@ const Footer = () => {
         
         <div className="text-center pt-8 border-t border-white/10">
           <p className="text-gray-400 flex items-center justify-center gap-1">
-            &copy; {currentYear} Parthivsinh Vaghela. Made with 
-            <Heart className="h-4 w-4 text-red-500 animate-pulse-slow" /> 
-            and code.
+            &copy; {currentYear} Parthivsinh Vaghela.
           </p>
         </div>
       </div>
